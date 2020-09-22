@@ -121,6 +121,13 @@ li {
    
 
 }
+#totalPercentage {
+    padding-top: 60px;
+    color: greenyellow;
+    font-size: 1.4rem;
+    font-family: 'Chilanka', cursive;
+
+}
 
 @media screen and (max-width: 860px) {
     body {
